@@ -90,7 +90,7 @@ This demonstrates real sysadmin problem-solving outside of classroom examples.
 
 - **Email:** zachary.ouldsfiya001@umb.edu
 - **LinkedIn:** [linkedin.com/in/zachary-ou](https://linkedin.com/in/zachary-ou)
-- **GitHub:** [github.com/Zach0129](https://github. com/Zach0129)
+- **GitHub:** https://github.com/ZachO129/Zach-Portfilio.git
 
 ---
 
