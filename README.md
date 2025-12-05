@@ -1,120 +1,108 @@
 # Zach-Portfolio
-About Me
 
-I am an undergraduate IT student at the University of Massachusetts Boston, focusing on system administration, networking, and cybersecurity. I enjoy solving complex technical problems, building secure and efficient systems, and developing real-world projects through my homelab and course work.
+## About Me
 
-My current interests include:
+I am an undergraduate IT student at the University of Massachusetts Boston, focusing on system administration, networking, and cybersecurity. I enjoy solving complex technical problems, building secure systems, and learning new technologies.
 
-Linux system administration
+### My current interests include:
 
-Python scripting
+- Linux system administration
+- Python scripting
+- Networking & security
+- Virtualization and lab infrastructure
+- Web development
 
-Networking & security
+---
 
-Virtualization and lab infrastructure
+## Skills
 
-Web development 
+### Technical Skills
 
-Skills
-Technical Skills
+- **Linux** (Ubuntu Server, systemd, SSH hardening, networking)
+- **Python** scripting & automation
+- **Git & GitHub**
+- **Windows Server** administration
+- **Virtualization** (VMware, KVM, VirtualBox)
+- **Networking fundamentals** (static IPs, VLANs, routing basics)
+- **Web development** (Next.js, Supabase)
 
-Linux (Ubuntu Server, systemd, SSH hardening, networking)
+### Tools
 
-Python scripting & automation
+- VS Code
+- Git/GitHub
+- Netplan / nmcli
+- Tailscale
+- VMware Workstation / Hyper-V
+- Node.js & Next.js
 
-Git & GitHub
+---
 
-Windows Server administration
+## Projects
 
-Virtualization (VMware, KVM, VirtualBox)
-
-Networking fundamentals (static IPs, VLANs, routing basics)
-
-Web development (Next.js, Supabase)
-
-Tools
-
-VS Code
-
-Git/GitHub
-
-Netplan / nmcli
-
-Tailscale
-
-VMware Workstation / Hyper-V
-
-Node.js & Next.js
-
-Projects
 ### 1. Penetration Testing Lab Environment
+
 A controlled offensive security lab built using:
+
 - Metasploitable2 (vulnerable VM)
 - Kali Linux attacker machine
 - Windows Server domain controller
 - Windows client joined to the domain
 
-Work included reconnaissance (Nmap), vulnerability scanning, exploitation using Metasploit, password attacks with Hydra, and post-exploitation steps. Demonstrates understanding of real attack paths and system hardening implications.
+Work included reconnaissance (Nmap), vulnerability scanning, exploitation using Metasploit, password attacks with Hydra, and post-exploitation steps. Demonstrates understanding of real attack paths and defensive implications. 
 
-**Skills:** Vulnerability scanning, exploitation, Linux admin, Windows Server management, domain networking, Metasploit, Nmap  
+**Skills:** Vulnerability scanning, exploitation, Linux admin, Windows Server management, domain networking, Metasploit, Nmap
 
+---
 
 ### 2. Campus Connect Marketplace (Web App)
 
 A student-focused marketplace app built with:
 
-Next.js
-
-Supabase (Postgres database)
-
-TypeScript
+- Next.js
+- Supabase (Postgres database)
+- TypeScript
 
 Implemented authentication, listings, and API routes. Currently expanding backend structure and deployment options.
 
-Skills: Full-stack development, API design, database modeling
+**Skills:** Full-stack development, API design, database modeling
+
+---
 
 ### 3. Homelab & Ubuntu Server Configuration
 
 A full Linux server build from scratch, including:
 
-SSH key-based authentication
+- SSH key-based authentication
+- Static IP configuration
+- Wi-Fi drivers (DKMS install)
+- systemd service troubleshooting
+- rsync backup & restore
+- Dual-boot recovery work
+- Multi-machine networking over Tailscale
 
-Static IP configuration
+This demonstrates real sysadmin problem-solving outside of classroom examples. 
 
-Wi-Fi drivers (DKMS install)
+**Skills:** Linux admin, networking, debugging, backup/restore
 
-systemd service troubleshooting
+---
 
-rsync backup & restore
+## Contact
 
-Dual-boot recovery work
+- **Email:** zachary.ouldsfiya001@umb.edu
+- **LinkedIn:** [linkedin.com/in/zachary-ou](https://linkedin.com/in/zachary-ou)
+- **GitHub:** [github.com/Zach0129](https://github. com/Zach0129)
 
-Multi-machine networking over Tailscale
+---
 
-This demonstrates real sysadmin problem-solving outside of classroom examples.
+## Portfolio Notes
 
-Skills: Linux admin, networking, debugging, backup/restore
-Folder: ./homelab/ (add screenshots or setup notes)
+This portfolio will continue to grow as I complete more coursework, expand my homelab, and build new security and automation projects. 
 
-Contact
+### Future additions will include:
 
-Email: zachary.ouldsfiya001@umb.edu
-
-LinkedIn: linkedin.com/in/zachary-ou
-
-GitHub: https://github.com/Zach0129
-
-Portfolio Notes
-
-This portfolio will continue to grow as I complete more coursework, expand my homelab, and build new security and automation projects. Future additions will include:
-
-Security+ study labs
-
-Ansible automation
-
-Docker & containerization work
-
-Monitoring dashboards
-
-Additional scripting assignments
+- Security+ study labs
+- Ansible automation
+- Docker & containerization work
+- Monitoring dashboards
+- Additional scripting assignments
 
