@@ -1,4 +1,4 @@
-# Zach-Portfilio
+# Zach-Portfolio
 About Me
 
 I am an undergraduate IT student at the University of Massachusetts Boston, focusing on system administration, networking, and cybersecurity. I enjoy solving complex technical problems, building secure and efficient systems, and developing real-world projects through my homelab and course work.
