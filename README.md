@@ -47,29 +47,23 @@ VMware Workstation / Hyper-V
 Node.js & Next.js
 
 Projects
-1. Python Scripting Coursework — IT117
+### 1. Penetration Testing Lab Environment
+A controlled offensive security lab built using:
+- Metasploitable2 (vulnerable VM)
+- Kali Linux attacker machine
+- Windows Server domain controller
+- Windows client joined to the domain
 
-Short scripts demonstrating:
+Work included reconnaissance (Nmap), vulnerability scanning, exploitation using Metasploit, password attacks with Hydra, and post-exploitation steps. Demonstrates understanding of real attack paths and system hardening implications.
 
-Classes, objects, constructors
-
-Recursion fundamentals
-
-File handling
-
-Directory walking
-
-Data hiding & __str__ implementations
+**Skills:** Vulnerability scanning, exploitation, Linux admin, Windows Server management, domain networking, Metasploit, Nmap  
 
 
-Skills: Python, problem-solving, OOP fundamentals
-
-2. Campus Connect Marketplace (Web App)
+### 2. Campus Connect Marketplace (Web App)
 
 A student-focused marketplace app built with:
 
 Next.js
-
 
 Supabase (Postgres database)
 
@@ -79,7 +73,7 @@ Implemented authentication, listings, and API routes. Currently expanding backen
 
 Skills: Full-stack development, API design, database modeling
 
-3. Homelab & Ubuntu Server Configuration
+### 3. Homelab & Ubuntu Server Configuration
 
 A full Linux server build from scratch, including:
 
